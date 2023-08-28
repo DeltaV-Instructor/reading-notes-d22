@@ -1,4 +1,28 @@
-# reading-notes-d22
+# Table of Contents
+
+
+
+- text     link that will go to the markdown file.
+ [Lab 1a](lab-1a.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Reading Notes Repo
 
