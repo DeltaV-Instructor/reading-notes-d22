@@ -1,10 +1,20 @@
 # Table of Contents
 
 
-
-- text     link that will go to the markdown file.
   
  [Lab 1a](lab-1a.md)
+ [Lab 1b](lab-1a.md)
+ [Lab 2a](lab-1a.md)
+ [Lab 2b](lab-1a.md)
+
+
+## Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+ 
+ 
 
 
 
